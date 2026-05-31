@@ -4,6 +4,8 @@ DataPulse is a full-stack Sales Analytics Platform built with Python and Flask t
 
 The platform simulates real-world sales data, processes it through an ETL pipeline, performs business analysis, applies statistical testing and machine learning, and presents insights through an interactive dashboard.
 
+Demo Link :- https://datapulse-enmc.onrender.com/
+
 ---
 
 ## 🚀 Features
