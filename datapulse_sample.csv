@@ -1,0 +1,11 @@
+order_id,date,category,region,channel,units,unit_price,discount_pct,gross_revenue
+ORD0001,2023-01-01,Beauty,South,Retail,43,612.38,2.16,23177.07
+ORD0002,2023-01-02,Sports,West,Wholesale,17,3218.51,2.14,58472.75
+ORD0003,2023-01-03,Groceries,West,Online,45,3561.73,0.36,172736.02
+ORD0004,2023-01-05,Sports,North,Wholesale,43,254.77,28.7,402279.91
+ORD0005,2023-01-06,Sports,South,Retail,34,4687.44,22.13,288164.08
+ORD0006,2023-01-08,Fashion,North,Online,9,354.66,10.6,258770.52
+ORD0007,2023-01-09,Groceries,East,Online,26,2752.35,8.9,150276.97
+ORD0008,2023-01-11,Groceries,East,Retail,2,3574.4,10.49,466218.09
+ORD0009,2023-01-12,Groceries,North,Retail,9,4367.75,23.24,201522.45
+ORD0010,2023-01-14,Sports,West,Retail,9,3599.03,19.84,48110.92
